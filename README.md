@@ -12,11 +12,16 @@ Database: MySQL, Eloquent ORM
 Tools: Git, NPM, Composer, Vite, Inertia.js
 Cloud: AWS (CCP), Microsoft Azure Fundamentals
 
- Featured Project
+ Featured Projects
 
-Tiny Tips – Parenting Support Platform
+1. Tiny Tips – Parenting Support Platform
 A full-stack blog platform built with Laravel 12, Vue 3, and MySQL featuring secure authentication, admin dashboard, category management, and responsive UI design.
 View - https://github.com/sisa-rgb/tiny-tips.git
+
+2. Basic Calculator Application
+This is a simple calculator web app created using HTML, CSS, and a bit of JavaScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It features a clean and minimal interface designed with CSS and basic button interactions powered by JavaScript event handling.
+
+
 
  Currently Working On
 
